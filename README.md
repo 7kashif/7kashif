@@ -11,10 +11,8 @@
 - 💬 Ask me about **Android , Firebase , Google APIs , Jetpack , MVVM**
 
 <h3 align="left">Connect me:</h3>
-<p>
 - **khanzada.kashif2001@gmail.com**
 - [LinkedIn](https://www.linkedin.com/in/kashif-masood-b22881198/)
-</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7kashif&" alt="7kashif" /></p>
 
