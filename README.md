@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Unit Testing & Integration Testing**
 - 💬 Ask me about **Android , Firebase , Google APIs , Jetpack , MVVM**
 
-<h3 align="left">Connect me:</h3>
+<h3 align="left">Connect with me:</h3>
 
 - **khanzada.kashif2001@gmail.com**
 
