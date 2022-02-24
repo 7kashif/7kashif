@@ -9,6 +9,7 @@
 - 🔭 I’m currently working on a **Wallpaper based app**
 - 🌱 I’m currently learning **Unit Testing & Integration Testing**
 - 💬 Ask me about **Android , Firebase , Google APIs , Jetpack , MVVM**
+- ⚡ Fun fact: Sometimes I even code in my dreams.
 
 <h3 align="left">Connect with me:</h3>
 
@@ -28,5 +29,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
