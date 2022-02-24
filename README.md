@@ -12,7 +12,8 @@
 
 <h3 align="left">Connect me:</h3>
 - **khanzada.kashif2001@gmail.com**
-- [LinkedIn](https://www.linkedin.com/in/kashif-masood-b22881198/)
+
+- [LinkedIn](https://www.linkedin.com/in/kashif-masood-b22881198)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7kashif&" alt="7kashif" /></p>
 
