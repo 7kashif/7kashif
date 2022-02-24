@@ -8,7 +8,10 @@
 
 - 🔭 I’m currently working on a **Wallpaper based app**
 - 🌱 I’m currently learning **Unit Testing & Integration Testing**
-- - 💬 Ask me about **Android , Firebase , Google APIs , Jetpack , MVVM**
+- 💬 Ask me about **Android , Firebase , Google APIs , Jetpack , MVVM**
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7kashif&" alt="7kashif" /></p>
+
 
 <!--
 **7kashif/7kashif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
