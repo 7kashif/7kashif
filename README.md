@@ -11,6 +11,7 @@
 - 💬 Ask me about **Android , Firebase , Google APIs , Jetpack , MVVM**
 
 <h3 align="left">Connect me:</h3>
+
 - **khanzada.kashif2001@gmail.com**
 
 - [LinkedIn](https://www.linkedin.com/in/kashif-masood-b22881198)
