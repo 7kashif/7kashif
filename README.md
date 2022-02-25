@@ -1,4 +1,4 @@
-<h1 align="center">heyyy Fellas👋, I'm Kashif Masood</h1>
+<h1 align="center">Heyyy Fellas👋, I'm Kashif Masood</h1>
 <h3 align="center">A passionate android developer. Eager to learn new things and provide the community with skills I already have. I am improving my skills in Software Architecure and design as well as modern android development concepts. I like solving problems with my skills. Writing clean, readable, efficient and scalable code are some of my characteristis. I am currently working as freelancer on Upwork, Freelancer and Fiverr.</h3>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7kashif&show_icons=true&locale=en" alt="7kashif" /></p>
