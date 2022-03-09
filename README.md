@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on a **Wallpaper based app**
-- 🌱 I’m currently learning **Unit Testing & Integration Testing**
+- 🌱 I’m currently learning **Jetpack Compose**
 - 💬 Ask me about **Android , Firebase , Google APIs , Jetpack , MVVM**
 - ⚡ Fun fact: Sometimes I even code in my dreams.
 
