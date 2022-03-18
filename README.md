@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7kashif" alt="7kashif" /></a> </p>
 
 
-- 🔭 I’m currently working on a **Wallpaper based app**
+- 🔭 I’m currently working on a **Painting App**
 - 🌱 I’m currently learning **Jetpack Compose**
 - 💬 Ask me about **Android , Firebase , Google APIs , Jetpack , MVVM**
 - ⚡ Fun fact: Sometimes I even code in my dreams.
