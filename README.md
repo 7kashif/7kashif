@@ -6,10 +6,10 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7kashif" alt="7kashif" /></a> </p>
 
 
-- 🔭 I’m currently working on **KMM**
-- 🌱 I’m currently learning **Jetpack Compose**
-- 💬 Ask me about **Android , Firebase , Google APIs , Jetpack , MVVM**
-- ⚡ Fun fact: Sometimes I even code in my dreams.
+- 🔭 I’m currently working on **KMP**
+- 🌱 I’m currently making random stuff in **Jetpack Compose**
+- 💬 Ask me about **Jetpack Compose, Kotlin Multiplatform**
+- ⚡ Fun fact: I code random stuff to refresh my mind after coding full day at job.
 
 <h3 align="left">Connect with me:</h3>
 
