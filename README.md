@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on **KMP**
-- 🌱 I’m currently making random stuff in **Jetpack Compose**
+- 🌱 I’m currently making random stuff in **Compose Multiplatform**
 - 💬 Ask me about **Jetpack Compose, Kotlin Multiplatform**
 - ⚡ Fun fact: I code random stuff to refresh my mind after coding full day at job.
 
